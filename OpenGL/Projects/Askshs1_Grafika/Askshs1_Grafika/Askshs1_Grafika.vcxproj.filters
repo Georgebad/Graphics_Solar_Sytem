@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{c7d2426a-9e19-4a2e-a7d0-7260c594ecd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{aea37f00-52d8-48e4-9acc-b620f901ed62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="control.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="objloader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="vboindexer.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="control.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="objloader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="vboindexer.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SimpleFragmentShader.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="SimpleVertexShader.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="ObjectsVertexShader.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="ObjectsFragmentShader.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="SphereVertexTexture.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="SphereFragmentTexture.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

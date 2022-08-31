@@ -1,0 +1,15 @@
+﻿  Main.cpp
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(96,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(435,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(437,24): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(438,24): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(446,17): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(447,17): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(448,17): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(515,18): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(516,18): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(517,18): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(586,18): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(587,18): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Work\OpenGL\Projects\Askshs1_Grafika\Askshs1_Grafika\Main.cpp(588,18): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  Askshs1_Grafika.vcxproj -> D:\Work\OpenGL\Projects\Askshs1_Grafika\Debug\Askshs1_Grafika.exe
